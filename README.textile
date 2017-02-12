@@ -1,0 +1,16 @@
+h1. Call & Response Ambisonic Workshop 12-02-17
+
+Extension of my "Generative SLG projections":https://github.com/msp/generative-projections-slg repo to trial 3D ambisonic sound:
+
+h2. Configure & Run
+
+Run in "Max 7":https://cycling74.com/products/max/.
+
+h3. Externals
+
+- "ICST Ambisonics Tools 2.3.2":https://www.zhdk.ch/downloads-ambisonics-externals-for-maxmsp-3697
+- "imp.dmx":http://www.theimpersonalstereo.com/impdmx/ (if you want the connect DMX lights)
+
+h2. Thanks
+
+- "Call & Response studio":http://www.callandresponse.org.uk
